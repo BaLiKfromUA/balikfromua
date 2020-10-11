@@ -3,6 +3,7 @@
 - 🔭 I’m currently working in [Bookmap](https://bookmap.com/)
 - 🌱 I’m currently learning Java, C++, Algorithms and Data Structures
 - 📫 How to reach me: [Telegram](https://t.me/balik_mem/)
+- 📃 My [CV](https://github.com/BaLiKfromUA/balikfromua/blob/main/Valentin_Yuhimenko_CV_Oct_2020.pdf)
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=balikfromua&show_icons=true)
