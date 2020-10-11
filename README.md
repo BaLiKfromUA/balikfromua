@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Valentin
 
-- 🔭 I’m currently working on [Bookmap](https://bookmap.com/)
+- 🔭 I’m currently working in [Bookmap](https://bookmap.com/)
 - 🌱 I’m currently learning Java, C++, Algorithms and Data Structures
 - 📫 How to reach me: [Telegram](https://t.me/balik_mem/)
 ---
