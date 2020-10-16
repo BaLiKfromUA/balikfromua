@@ -7,7 +7,7 @@
 - 📃 My [CV](https://github.com/BaLiKfromUA/balikfromua/blob/main/Valentin_Yuhimenko_CV_Oct_2020.pdf)
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=balikfromua&show_icons=true&count_private=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balikfromua&hide=css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=balikfromua&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balikfromua&hide=css,scss,less&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BaLiKfromUA/balikfromua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
